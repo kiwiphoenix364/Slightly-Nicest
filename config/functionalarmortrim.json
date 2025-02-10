@@ -1,0 +1,306 @@
+{
+    "minecraft:iron_ingot": [
+        {
+            "attribute": "minecraft:generic.armor",
+            "operation": "addition",
+            "amount": 1.5
+        }
+    ],
+    "minecraft:gold": [
+        {
+            "attribute": "attributeslib:healing_recieved",
+            "operation": "addition",
+            "amount": 0.1
+        }
+    ],
+    "minecraft:diamond": [
+        {
+            "attribute": "minecraft:generic.armor_toughness",
+            "operation": "addition",
+            "amount": 1.5
+        }
+    ],
+    "minecraft:netherite_ingot": [
+        {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "operation": "addition",
+            "amount": 0.1
+        },
+        {
+            "attribute": "functionalarmortrim:fire_resistance",
+            "operation": "addition",
+            "amount": 0.1
+        },
+        {
+            "attribute": "minecraft:generic.armor_toughness",
+            "operation": "addition",
+            "amount": 1
+        }
+    ],
+    "minecraft:redstone": [
+        {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "amount": 0.1
+        },
+        {
+            "attribute": "attributeslib:dodge_chance",
+            "operation": "addition",
+            "amount": 0.05
+        },
+        {
+            "attribute": "forge:step_height_addition",
+            "operation": "addition",
+            "amount": 0.5
+        }
+    ],
+    "minecraft:copper_ingot": [
+        {
+            "attribute": "functionalarmortrim:night_vision",
+            "operation": "addition",
+            "amount": 0.15
+        },
+        {
+            "attribute": "attributeslib:arrow_velocity",
+            "operation": "addition",
+            "amount": 0.2
+        }
+    ],
+    "minecraft:amethyst_shard": [
+        {
+            "attribute": "functionalarmortrim:thorns",
+            "operation": "addition",
+            "amount": 1.5
+        }
+    ],
+    "minecraft:lapis_lazuli": [
+        {
+            "attribute": "attributeslib:experience_gained",
+            "operation": "addition",
+            "amount": 0.12
+        },
+        {
+            "attribute": "minecraft:generic.luck",
+            "operation": "addition",
+            "amount": 1
+        }
+    ],
+    "minecraft:quartz": [
+        {
+            "attribute": "attributeslib:prot_pierce",
+            "operation": "addition",
+            "amount": 1.0
+        },
+        {
+            "attribute": "attributeslib:armor_pierce",
+            "operation": "addition",
+            "amount": 1.0
+        }
+    ],
+    "minecraft:emerald": [
+        {
+            "attribute": "functionalarmortrim:gossip_boost",
+            "operation": "addition",
+            "amount": 0.3
+        }
+    ],
+    "biomesoplenty:glowworm_silk": [
+        {
+            "attribute": "functionalarmortrim:night_vision",
+            "operation": "addition",
+            "amount": 0.25
+        }
+    ],
+    "biomesoplenty:rose_quartz": [
+        {
+            "attribute": "attributeslib:prot_shred",
+            "operation": "addition",
+            "amount": 0.1
+        },
+        {
+            "attribute": "attributeslib:armor_shred",
+            "operation": "addition",
+            "amount": 0.1
+        }
+    ],
+    "cataclysm:ignitium_ingot": [
+        {
+            "attribute": "functionalarmortrim:fire_resistance",
+            "operation": "addition",
+            "amount": 0.25
+        }
+    ],
+    "cataclysm:witherite_ingot": [
+        {
+            "attribute": "minecraft:generic.attack_damage",
+            "operation": "addition",
+            "amount": 0.5
+        },
+        {
+            "attribute": "attributeslib:life_steal",
+            "operation": "addition",
+            "amount": 0.1
+        }
+    ],
+    "cataclysm:ancient_metal_ingot": [
+        {
+            "attribute": "forge:entity_reach",
+            "operation": "addition",
+            "amount": 1
+        },
+        {
+            "attribute": "forge:block_reach",
+            "operation": "addition",
+            "amount": 1
+        },
+        {
+            "attribute": "minecraft:generic.attack_knockback",
+            "operation": "addition",
+            "amount": 1
+        },
+        {
+            "attribute": "attributeslib:arrow_velocity",
+            "operation": "addition",
+            "amount": 0.05
+        }
+    ],
+    "cataclysm:cursium_ingot": [
+        {
+            "attribute": "functionalarmortrim:night_vision",
+            "operation": "addition",
+            "amount": 0.1
+        },
+        {
+            "attribute": "attributeslib:dodge_chance",
+            "operation": "addition",
+            "amount": 0.06
+        },
+        {
+            "attribute": "minecraft:generic.armor_toughness",
+            "operation": "addition",
+            "amount": 0.5
+        }
+    ],
+    "aether:zanite": [
+        {
+            "attribute": "minecraft:generic.attack_damage",
+            "operation": "addition",
+            "amount": 1.0
+        }
+    ],
+    "aether:golden_amber": [
+        {
+            "attribute": "vminus:protection",
+            "operation": "addition",
+            "amount": 1
+        }
+    ],
+    "palegarden:resin_material": [
+        {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "amount": 0.1
+        },
+        {
+            "attribute": "vminus:mob_detection_range",
+            "operation": "addition",
+            "amount": -2.0
+        }
+    ],
+    "aether_treasure_reforging:neptune": [
+        {
+            "attribute": "minecraft:generic.attack_speed",
+            "operation": "addition",
+            "amount": 0.1
+        },
+        {
+            "attribute": "minecraft:generic.attack_damage",
+            "operation": "addition",
+            "amount": 1
+        }
+    ],
+    "aether_treasure_reforging:valkyrie": [
+        {
+            "attribute": "forge:entity_gravity",
+            "operation": "addition",
+            "amount": -0.012
+        },
+        {
+            "attribute": "vminus:fall_protection",
+            "operation": "addition",
+            "amount": 1.0
+        }
+    ],
+    "aether_treasure_reforging:phoenix": [
+        {
+            "attribute": "attributeslib:fire_damage",
+            "operation": "addition",
+            "amount": 2
+        }
+    ],
+    "deep_aether:skyjade": [
+        {
+            "attribute": "attributeslib:current_hp_damage",
+            "operation": "addition",
+            "amount": 0.1
+        }
+    ],
+    "deep_aether:stratus": [
+        {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "amount": 0.1
+        },
+        {
+            "attribute": "forge:entity_gravity",
+            "operation": "addition",
+            "amount": -0.008
+        },
+        {
+            "attribute": "vminus:fall_protection",
+            "operation": "addition",
+            "amount": 1.0
+        }
+    ],
+    "ancient_aether:valkyrum": [
+        {
+            "attribute": "forge:entity_gravity",
+            "operation": "addition",
+            "amount": -0.012
+        },
+        {
+            "attribute": "vminus:fall_protection",
+            "operation": "addition",
+            "amount": 1.0
+        }
+    ],
+    "ancient_aether:atmosine": [
+        {
+            "attribute": "minecraft:generic.attack_speed",
+            "operation": "attributeslib:draw_speed",
+            "amount": 0.15
+        }
+    ],
+    "aether:gravitite": [
+        {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "operation": "addition",
+            "amount": 0.15
+        },
+        {
+            "attribute": "forge:entity_gravity",
+            "operation": "addition",
+            "amount": -0.004
+        },
+        {
+            "attribute": "vminus:fall_protection",
+            "operation": "addition",
+            "amount": 2.0
+        },
+        {
+            "attribute": "forge:step_height_addition",
+            "operation": "addition",
+            "amount": 0.5
+        }
+    ]
+}

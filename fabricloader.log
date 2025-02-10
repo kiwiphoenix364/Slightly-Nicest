@@ -1,0 +1,4 @@
+[16:39:15] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[16:39:15] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE bclib 3.0.14 {depends fabric @ [>=0.83.0]}, ROOT_FORCELOAD_SINGLE bclib 3.0.14]
+[16:39:15] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP bclib 3.0.14 {depends fabric @ [>=0.83.0]}, HARD_DEP wunderlib 1.1.5 {depends fabric @ [>=0.83.0]}, HARD_DEP better_trim_tooltips 1.0.1 {depends fabric-api @ [*]}, HARD_DEP betterend 4.0.11 {depends fabric @ [>=0.83.0]}, HARD_DEP betterenddelight 1.0.2-1.20.1 {depends fabric-api @ [*]}, HARD_DEP betternether 9.0.10 {depends fabric @ [>=0.83.0]}, HARD_DEP betternetherdelight 1.0.2.1-1.20.1 {depends fabric-api @ [*]}]
+[16:39:15] [INFO] [FabricLoader/Resolution]: Fix: add [add:fabric 0.83.0 ([[0.83.0,∞)]), add:fabric-api 1 ([(-∞,0.86.0), (0.86.0,∞)])], remove [], replace []
